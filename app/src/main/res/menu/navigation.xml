@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item
+		android:id="@id/navigation_quiz"
+		android:icon="@drawable/ic_help"
+		android:title="@string/navigation_quiz" />
+
+	<item
+		android:id="@id/navigation_image"
+		android:icon="@drawable/ic_image"
+		android:title="@string/navigation_image" />
+
+	<item
+		android:id="@id/navigation_tell_story"
+		android:icon="@drawable/ic_microphone"
+		android:title="@string/navigation_tell_story" />
+
+	<item
+		android:id="@id/navigation_explore"
+		android:icon="@drawable/ic_map"
+		android:title="@string/navigation_explore" />
+
+	<item
+		android:id="@id/navigation_settings"
+		android:icon="@drawable/ic_settings"
+		android:title="@string/navigation_settings" />
+</menu>

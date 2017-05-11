@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item name="navigation_quiz" type="id" />
+	<item name="navigation_image" type="id" />
+	<item name="navigation_tell_story" type="id" />
+	<item name="navigation_explore" type="id" />
+	<item name="navigation_settings" type="id" />
+</resources>
